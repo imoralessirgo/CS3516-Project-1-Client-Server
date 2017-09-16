@@ -1,0 +1,8 @@
+rtt.txt
+
+www.cnn.com       198 milliseconds
+www.foxnews.com   112 milliseconds
+www.msnbc.com       2 milliseconds
+www.msn.com        70 milliseconds
+www.google.com      1 milliseconds
+www.bing.com      165 milliseconds
